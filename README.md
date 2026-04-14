@@ -2,6 +2,18 @@
 
 ### 👨‍💻 Développeur Web Full Stack | Expert en Écriture Multimédia
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Lucas%20Jaspar&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  
+  <h1>Développeur Web Full Stack 🚀</h1>
+  
+  <p>
+    <a href="https://www.jasparlucas.be">Portfolio</a> • 
+    <a href="https://www.linkedin.com/in/lucasjaspar">LinkedIn</a> • 
+    <a href="mailto:jasparlucas@gmail.com">Contact</a>
+  </p>
+</div>
+
 Passionné par l'innovation, je conçois et déploie des solutions techniques sur mesure pour aider les entreprises à atteindre leur plein potentiel de croissance. Mon approche combine rigueur technique et réflexion UX.
 
 ---
