@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Développeur Web Full Stack | Expert en Écriture Multimédia
 
-![Banner](./assets/ma-super-bannière.png)
+![Banner](./assets/banner.png)
 
 Passionné par l'innovation, je conçois et déploie des solutions techniques sur mesure pour aider les entreprises à atteindre leur plein potentiel de croissance. Mon approche combine rigueur technique et réflexion UX.
 
