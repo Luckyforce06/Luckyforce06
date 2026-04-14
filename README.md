@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Header">
-</p>
-
 # Salut, moi c'est Lucas JASPAR ! 👋
 
 ### 👨‍💻 Développeur Web Full Stack | Expert en Écriture Multimédia
