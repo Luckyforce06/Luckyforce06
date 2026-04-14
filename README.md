@@ -1,13 +1,44 @@
-# 💫 About Me:
-Salut, moi c'est Lucas ! 👋<br>🚀 Développeur Full Stack & Créatif Multimédia<br><br>Diplômé en Écriture Multimédia et actuellement en formation intensive chez Technifutur, je construis des expériences web complètes, de la première esquisse UI au déploiement de la base de données.<br>🛠️ Mon Stack Technique<br><br>    Frontend : HTML5, CSS3, JavaScript (ES6+), React, Angular<br><br>    Backend : Node.js, Express<br><br>    Base de données : PostgreSQL, MongoDB<br><br>    Outils & Design : Git, GitHub, UX/UI Design, Figma<br><br>📈 Ce que je fais en ce moment<br><br>    🎓 Spécialisation en développement Full Stack.<br><br>    👨‍💻 Exploration de nouvelles architectures en React et Node.js.<br><br>    🔍 À la recherche d'un stage de 3 mois pour clore ma formation.<br><br>📫 Me contacter<br><br>    LinkedIn : Lucas JASPAR<br><br>    Localisation : Belgique (Oupeye)
+# Salut, moi c'est Lucas JASPAR ! 👋
 
+### 👨‍💻 Développeur Web Full Stack | Expert en Écriture Multimédia
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jasparlucas@gmail.com) 
+Passionné par l'innovation, je conçois et déploie des solutions techniques sur mesure pour aider les entreprises à atteindre leur plein potentiel de croissance. Mon approche combine rigueur technique et réflexion UX.
 
-# 💻 Tech Stack:
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Luckyforce06&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Luckyforce06&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Luckyforce06&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
+
+### 🛠️ Mon Stack Technique
+
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+**Backend & DB**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Outils & Méthodes**
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-SCRUM-blue?style=for-the-badge) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+---
+
+### 🌟 Projets & Expériences
+
+- 🎓 **TFE :** Développement d'une application en **Réalité Virtuelle** pour l'apprentissage des langues (HEPL).
+- 🏗️ **Stage @ Delomid IT :** Optimisation SEO et création de structures web sur WordPress.
+- 🔄 **Stage @ ASBL Aigs :** Refonte UI/UX et analyse de plateforme web.
+- 🌱 En apprentissage continu sur **Flutter** et les architectures modernes.
+
+---
+
+### 📊 Statistiques GitHub
+
+![Stats de Lucas](https://github-readme-stats.vercel.app/api?username=LucasJaspar&show_icons=true&theme=radical&count_private=true)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJaspar&layout=compact&theme=radical)
+
+---
+
+### 📫 Me contacter
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucasjaspar)
+- 🌐 [Mon Portfolio](https://www.jasparlucas.be)
+- 📧 [jasparlucas@gmail.com](mailto:jasparlucas@gmail.com)
+
+*"Le code est une forme d'écriture multimédia où chaque ligne construit une expérience."*
